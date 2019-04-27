@@ -1,4 +1,4 @@
-package sda.hibernate;
+package sda.hibernate.config1;
 
 import static org.junit.Assert.assertTrue;
 
